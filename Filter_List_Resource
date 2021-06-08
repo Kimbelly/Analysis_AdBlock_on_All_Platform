@@ -1,0 +1,21 @@
+[Domain_AdAway] https://adaway.org/hosts.txt
+
+[Domain_AdGuard_DNS_Filter] https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+
+[Domain_Peter_Lowe_List] 
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+
+[Domain_Someonewhocares] https://someonewhocares.org/hosts/hosts
+
+[Domain_StevenBlack] https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+
+[URL_AdGuard_Base_Filter_Optimized] https://filters.adtidy.org/extension/chromium/filters/2_optimized.txt
+
+[URL_EasylistChina+Easylist] https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
+
+[URL_Easylists] https://easylist-downloads.adblockplus.org/easylist.txt
+
+==========================================================
+
+https://github.com/easylist/easylist/blob/master/easylist/easylist_adservers.txt
+
